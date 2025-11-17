@@ -1,0 +1,38 @@
+name: microfinanciera_app
+description: App microfinanciera con Firebase (Firestore)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.2
+  cloud_firestore: ^5.5.0
+  firebase_messaging: ^15.1.0
+  firebase_storage: ^12.1.0
+  cloud_functions: ^5.6.2
+
+
+  # State & UI
+  provider: ^6.0.5
+  flutter_form_builder: ^9.2.0
+
+  # Utils
+  uuid: ^3.0.7
+  intl: ^0.18.0
+  file_picker: ^5.2.6
+  signature: ^5.2.1
+  local_auth: ^2.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
