@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069262696724",
+    "project_id": "microfinanciera-3db0f",
+    "storage_bucket": "microfinanciera-3db0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069262696724:android:3d5f62a2967726c4b7d201",
+        "android_client_info": {
+          "package_name": "com.company.microfinanciera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJrbT2eZccQcPTi7GhV1JsoSQ3_6oLrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069262696724:android:7f08cefac2b5b1a6b7d201",
+        "android_client_info": {
+          "package_name": "com.example.microfinanciera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJrbT2eZccQcPTi7GhV1JsoSQ3_6oLrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
